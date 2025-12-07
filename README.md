@@ -154,15 +154,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by the need for better practice tools
 - Thanks to all contributors and testers
 
-## 📊 Statistics
-
-This plugin includes anonymous usage statistics to help improve development. No personal data is collected. Statistics include:
-- Server count using the plugin
-- Plugin version distribution
-- Basic server information (player count, etc.)
-
-You can disable statistics by setting `enable-stats: false` in the plugin configuration.
-
 ---
 
 **Made with ❤️ by AkaTriggered for the G1ax Customs community**
