@@ -1,0 +1,25 @@
+name: G1axCrystalPracticeBot
+version: 1.0.0
+main: dev.akatriggered.practicebot.PracticeBotPlugin
+api-version: 1.20
+author: AkaTriggered
+
+commands:
+  spawnbot:
+    description: Spawn a practice bot
+    usage: /spawnbot
+  botmenu:
+    description: Open bot configuration menu
+    usage: /botmenu
+  removebot:
+    description: Remove your practice bot
+    usage: /removebot
+  removeallbots:
+    description: Remove all practice bots (Admin only)
+    usage: /removeallbots
+    permission: practicebot.admin
+
+permissions:
+  practicebot.admin:
+    description: Allows access to admin commands
+    default: op
